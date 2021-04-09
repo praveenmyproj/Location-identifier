@@ -1,0 +1,6 @@
+name: Location Identifier
+type: module
+description: 'Customize Location Identifier'
+package: Custom
+version: VERSION
+core: '8.x'
